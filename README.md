@@ -9,3 +9,6 @@ Nesta atividade, cada dupla deve implementar um fractal geométrico. Para tanto,
 5. Alterações no Fractal de Mandelbrot
 Nesta atividade, cada dupla deve alterar o fractal de Mandelbrot. 
 Opção "Esquema de cores": Codificar no programa um esquema de cores para o fractal, objetivando gerar imagens mais nítidas.
+
+
+Códigos-fonte não foram desenvolvidos por mim e, portanto, os devidos créditos foram deixados.
